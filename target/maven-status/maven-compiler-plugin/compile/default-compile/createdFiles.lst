@@ -1,0 +1,5 @@
+FITA\SeleniumFramework\pageObjects\CartPage.class
+FITA\resources\ExtentReporterNG.class
+FITA\SeleniumFramework\pageObjects\ProductsPage.class
+FITA\SeleniumFramework\pageObjects\CheckoutPage.class
+FITA\SeleniumFramework\pageObjects\LandingPage.class

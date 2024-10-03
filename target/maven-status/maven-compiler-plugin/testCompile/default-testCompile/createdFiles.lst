@@ -1,0 +1,12 @@
+Cucumber\TestNgTestRunner.class
+FITA\SeleniumFramework\StandaloneTest.class
+FITA\TestComponents\Listeners.class
+FITA\data\DataReader.class
+FITA\TestComponents\BaseTest.class
+FITA\data\DataReader$1.class
+FITA\SeleniumFramework\SubmitOrderDataProvider1.class
+FITA\StepDefinition\stepDefImplementation.class
+FITA\TestComponents\BaseTest$1.class
+FITA\SeleniumFramework\AppTest.class
+FITA\SeleniumFramework\SubmitOrder.class
+FITA\SeleniumFramework\ExtentReport.class
